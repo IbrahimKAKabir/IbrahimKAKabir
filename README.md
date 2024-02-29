@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IbrahimKAKabir
+- 👋 Hi, I’m Ibrahim
 - 👀 I’m interested in Robotics, computer Vision, Machine Learning, and Deep learning
 - 🌱 I’m currently learning C++ and ROS
 - 💞️ I’m looking to collaborate on Robotics projects
