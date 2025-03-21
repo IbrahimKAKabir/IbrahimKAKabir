@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ibrahim
-- 👀 I’m interested in Robotics, computer Vision, Machine Learning, and Deep learning
+- 👀 I’m working in Robotics, Machine Learning, Deep learning, and Reinforcement Learning
 - 🌱 I’m currently learning Python, C++ and ROS
 - 💞️ I’m looking to collaborate on Robotics projects
 - 📫 How to reach me ibrahimkkabir@gmail.com
